@@ -27,7 +27,7 @@
 			"protocol": "vless",
 			"settings": {
 				"clients": [{
-					"id": "UUID"
+					"id": "61ffc5df-caf5-456d-8851-29cf949827aa"
 				}],
 				"decryption": "none"
 			},
